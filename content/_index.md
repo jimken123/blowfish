@@ -21,7 +21,7 @@ description: "This page was built using the Blowfish theme for Hugo."
 
 
 ```node
-npx nfhdskfhdskrfhs-tools
+npx nfhdskfhddddd----dskrfhs-tools
 ```  
 
 {{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
