@@ -9,3 +9,5 @@ foo
 bar
 
 finbar
+
+foobar
